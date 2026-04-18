@@ -19,7 +19,7 @@
 
 -------------
 <p align="center">
-  <img width="70%" src="https://i.ibb.co/1tGtKJ8J/leo-dubosclard-resume.jpg" alt="resume">
+  <img width="70%" src="https://i.ibb.co/84R6L1ZH/leo-dubosclard-resume-page-0001.jpg" alt="resume">
 </p>
 
 ###
